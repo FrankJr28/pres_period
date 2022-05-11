@@ -1,0 +1,14 @@
+@media screen and (max-width:577px){
+	.logo{
+		display:none !important;
+	}
+	h2{
+		font-size: .8rem;
+	}
+}
+
+@media screen and (max-width:740px){
+	h2{
+		font-size: 1.5rem;
+	}
+}
